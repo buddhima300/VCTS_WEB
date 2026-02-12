@@ -48,6 +48,16 @@ export const portfolioItems: PortfolioItem[] = [
       "https://i.pinimg.com/736x/86/94/ce/8694ce086079355e381fb4fa9c1203c7.jpg",
     client: "Escort Service",
   },
+  {
+    id: "5",
+    title: "NeuroDoc Encryption Web Application",
+    category: "Software Projects",
+    description:
+      "A secure web application for encrypting and decrypting sensitive data using advanced cryptographic algorithms.",
+    imageUrl:
+      "https://i.pinimg.com/736x/2d/21/78/2d21781bada9203e6836ea41914074b0.jpg",
+    client: "Personal Project",
+  },
 ];
 
 export const processSteps: ProcessStep[] = [
