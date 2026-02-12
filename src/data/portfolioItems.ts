@@ -53,10 +53,20 @@ export const portfolioItems: PortfolioItem[] = [
     title: "NeuroDoc Encryption Web Application",
     category: "Software Projects",
     description:
-      "A secure web application for encrypting and decrypting sensitive data using advanced cryptographic algorithms.",
+      "NeuroDoc is a security-focused web application designed to securely encrypt and decrypt digital documents using multiple cryptographic techniques.",
     imageUrl:
-      "https://i.pinimg.com/736x/2d/21/78/2d21781bada9203e6836ea41914074b0.jpg",
+      "https://i.pinimg.com/736x/a9/e7/82/a9e7825116ce471ffab755d6c0c63880.jpg",
     client: "Personal Project",
+  },
+  {
+    id: "6",
+    title: "Sales Incentive Automation System",
+    category: "Software Projects",
+    description:
+      "An automated system that streamlines sales incentive management, tracking performance metrics, and distributing rewards based on predefined criteria.",
+    imageUrl:
+      "https://i.pinimg.com/736x/d6/aa/83/d6aa838f436dbc1d1662cb113b4f378b.jpg",
+    client: "Software Development Project for a Local Business",
   },
 ];
 
